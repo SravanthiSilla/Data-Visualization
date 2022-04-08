@@ -1,0 +1,25 @@
+Segments,Products,Sales,Profit in %
+Grocery,Frozen,123000,65
+Grocery,Dairy,200300,45
+Grocery,Beverages,150100,29
+Grocery,Meat,230700,45
+Pharmacy,Pain Relievers,450000,46
+Pharmacy,COVID 19 Testing Kits,300000,74
+Pharmacy,Vitamins,567000,65
+Pharmacy,"Cold, Cough & Flu",698000,89
+Clothing,Winter Wear,101000,35
+Clothing,Sports Wear,89000,39
+Clothing,Casual wear,130000,41
+Clothing,Nightwear,97890,50
+Beauty,Makeup,65400,20
+Beauty,Hair Care,54300,18
+Beauty,Bath & Body,75990,16
+Beauty,Skincare,65430,14
+Personal Care,Feminine care,45670,20
+Personal Care,Men's Grooming,38970,19
+Personal Care,Oral care,97600,48
+Personal Care,Tanning & Sun care,33570,17
+Electronics,TV,136980,73
+Electronics,Cell Phones,245600,68
+Electronics,Computers,201780,59
+Electronics,Cameras,94060,41
