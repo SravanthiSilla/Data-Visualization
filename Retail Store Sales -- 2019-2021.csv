@@ -1,0 +1,145 @@
+Year,Store,Segments,Products,Purchase Price,Sales Price,Quantity sold,Profit
+2019,Walmart,Grocery,Frozen,106181,123000,234,16819
+2019,Walmart,Grocery,Dairy,180659,200300,456,19641
+2019,Walmart,Grocery,Beverages,134592,150100,256,15508
+2019,Walmart,Grocery,Meat,199842,230700,765,30858
+2019,Walmart,Pharmacy,Pain Relievers,338943,450000,247,111057
+2019,Walmart,Pharmacy,COVID 19 Testing Kits,284092,300000,877,15908
+2019,Walmart,Pharmacy,Vitamins,546253,567000,123,20747
+2019,Walmart,Pharmacy,"Cold, Cough & Flu",679112,698000,469,18888
+2019,Walmart,Clothing,Winter Wear,104159,133000,170,28841
+2019,Walmart,Clothing,Sports Wear,9306,119000,182,109694
+2019,Walmart,Clothing,Casual wear,110712,130000,772,19288
+2019,Walmart,Clothing,Nightwear,119160,137890,254,18730
+2019,Walmart,Beauty,Makeup,157875,175400,884,17525
+2019,Walmart,Beauty,Hair Care,132079,164300,649,32221
+2019,Walmart,Beauty,Bath & Body,69313,176990,778,107677
+2019,Walmart,Beauty,Skincare,137505,155430,470,17925
+2019,Walmart,Personal Care,Feminine care,113560,135670,270,22110
+2019,Walmart,Personal Care,Men's Grooming,223462,238970,779,15508
+2019,Walmart,Personal Care,Oral care,96742,127600,261,30858
+2019,Walmart,Personal Care,Tanning & Sun care,27513,138570,891,111057
+2019,Walmart,Electronics,TV,121072,136980,656,15908
+2019,Walmart,Electronics,Cell Phones,224853,245600,785,20747
+2019,Walmart,Electronics,Computers,182892,201780,477,18888
+2019,Walmart,Electronics,Cameras,165219,194060,277,28841
+2019,Target,Grocery,Frozen,33306,143000,786,109694
+2019,Target,Grocery,Dairy,191012,210300,268,19288
+2019,Target,Grocery,Beverages,171370,190100,898,18730
+2019,Target,Grocery,Meat,263175,280700,663,17525
+2019,Target,Pharmacy,Pain Relievers,437779,470000,792,32221
+2019,Target,Pharmacy,COVID 19 Testing Kits,252323,360000,484,107677
+2019,Target,Pharmacy,Vitamins,569075,587000,284,17925
+2019,Target,Pharmacy,"Cold, Cough & Flu",695890,718000,793,22110
+2019,Target,Clothing,Winter Wear,175492,191000,275,15508
+2019,Target,Clothing,Sports Wear,108442,139300,905,30858
+2019,Target,Clothing,Casual wear,18943,130000,670,111057
+2019,Target,Clothing,Nightwear,101982,117890,799,15908
+2019,Target,Beauty,Makeup,155653,176400,491,20747
+2019,Target,Beauty,Hair Care,135412,154300,291,18888
+2019,Target,Beauty,Bath & Body,127149,155990,800,28841
+2019,Target,Beauty,Skincare,65736,175430,282,109694
+2019,Target,Personal Care,Feminine care,126382,145670,912,19288
+2019,Target,Personal Care,Men's Grooming,120240,138970,677,18730
+2019,Target,Personal Care,Oral care,180075,197600,806,17525
+2019,Target,Personal Care,Tanning & Sun care,161349,193570,498,32221
+2019,Target,Electronics,TV,79303,186980,67,107677
+2019,Target,Electronics,Cell Phones,267675,285600,807,17925
+2019,Target,Electronics,Computers,189670,211780,289,22110
+2019,Target,Electronics,Cameras,97552,113060,919,15508
+2020,Walmart,Grocery,Frozen,114142,145000,684,30858
+2020,Walmart,Grocery,Dairy,101243,212300,813,111057
+2020,Walmart,Grocery,Beverages,156492,172400,505,15908
+2020,Walmart,Grocery,Meat,226253,247000,305,20747
+2020,Walmart,Pharmacy,Pain Relievers,460012,478900,814,18888
+2020,Walmart,Pharmacy,COVID 19 Testing Kits,296839,325680,296,28841
+2020,Walmart,Pharmacy,Vitamins,573756,683450,926,109694
+2020,Walmart,Pharmacy,"Cold, Cough & Flu",704162,723450,691,19288
+2020,Walmart,Clothing,Winter Wear,115770,134500,820,18730
+2020,Walmart,Clothing,Sports Wear,114975,132500,512,17525
+2020,Walmart,Clothing,Casual wear,112779,145000,312,32221
+2020,Walmart,Clothing,Nightwear,15323,123000,821,107677
+2020,Walmart,Beauty,Makeup,160725,178650,303,17925
+2020,Walmart,Beauty,Hair Care,257120,279230,933,22110
+2020,Walmart,Beauty,Bath & Body,783392,798900,698,15508
+2020,Walmart,Beauty,Skincare,348092,378950,827,30858
+2020,Walmart,Personal Care,Feminine care,362343,473400,519,111057
+2020,Walmart,Personal Care,Men's Grooming,540162,556070,319,15908
+2020,Walmart,Personal Care,Oral care,91553,112300,828,20747
+2020,Walmart,Personal Care,Tanning & Sun care,627872,646760,310,18888
+2020,Walmart,Electronics,TV,166829,195670,940,28841
+2020,Walmart,Electronics,Cell Phones,187006,296700,705,109694
+2020,Walmart,Electronics,Computers,215272,234560,834,19288
+2020,Walmart,Electronics,Cameras,112470,131200,526,18730
+2020,Target,Grocery,Frozen,139475,157000,326,17525
+2020,Target,Grocery,Dairy,199779,232000,835,32221
+2020,Target,Grocery,Beverages,78823,186500,317,107677
+2020,Target,Grocery,Meat,247675,265600,947,17925
+2020,Target,Pharmacy,Pain Relievers,476590,498700,712,22110
+2020,Target,Pharmacy,COVID 19 Testing Kits,342142,357650,841,15508
+2020,Target,Pharmacy,Vitamins,703642,734500,533,30858
+2020,Target,Pharmacy,"Cold, Cough & Flu",686743,797800,333,111057
+2020,Target,Clothing,Winter Wear,151592,167500,842,15908
+2020,Target,Clothing,Sports Wear,192723,213470,324,20747
+2020,Target,Clothing,Casual wear,156112,175000,954,18888
+2020,Target,Clothing,Nightwear,127859,156700,719,28841
+2020,Target,Beauty,Makeup,680066,789760,848,109694
+2020,Target,Beauty,Hair Care,378112,397400,540,19288
+2020,Target,Beauty,Bath & Body,93570,112300,340,18730
+2020,Target,Beauty,Skincare,154475,172000,849,17525
+2020,Target,Personal Care,Feminine care,564319,596540,331,32221
+2020,Target,Personal Care,Men's Grooming,66703,174380,961,107677
+2020,Target,Personal Care,Oral care,160975,178900,726,17925
+2020,Target,Personal Care,Tanning & Sun care,212450,234560,855,22110
+2020,Target,Electronics,TV,238992,254500,547,15508
+2020,Target,Electronics,Cell Phones,293812,324670,347,30858
+2020,Target,Electronics,Computers,190743,301800,856,111057
+2020,Target,Electronics,Cameras,107632,123540,338,15908
+2021,Walmart,Grocery,Frozen,98253,119000,695,20747
+2021,Walmart,Grocery,Dairy,167412,186300,387,18888
+2021,Walmart,Grocery,Beverages,107259,136100,187,28841
+2021,Walmart,Grocery,Meat,107006,216700,696,109694
+2021,Walmart,Pharmacy,Pain Relievers,416712,436000,178,19288
+2021,Walmart,Pharmacy,COVID 19 Testing Kits,267270,286000,808,18730
+2021,Walmart,Pharmacy,Vitamins,535475,553000,573,17525
+2021,Walmart,Pharmacy,"Cold, Cough & Flu",651779,684000,702,32221
+2021,Walmart,Clothing,Winter Wear,79323,187000,394,107677
+2021,Walmart,Clothing,Sports Wear,108075,126000,194,17925
+2021,Walmart,Clothing,Casual wear,93890,116000,703,22110
+2021,Walmart,Clothing,Nightwear,108382,123890,185,15508
+2021,Walmart,Beauty,Makeup,160542,191400,815,30858
+2021,Walmart,Beauty,Hair Care,39243,150300,580,111057
+2021,Walmart,Beauty,Bath & Body,147082,162990,709,15908
+2021,Walmart,Beauty,Skincare,120683,141430,401,20747
+2021,Walmart,Personal Care,Feminine care,102782,121670,201,18888
+2021,Walmart,Personal Care,Men's Grooming,196129,224970,710,28841
+2021,Walmart,Personal Care,Oral care,3906,113600,192,109694
+2021,Walmart,Personal Care,Tanning & Sun care,105282,124570,822,19288
+2021,Walmart,Electronics,TV,104250,122980,587,18730
+2021,Walmart,Electronics,Cell Phones,214075,231600,716,17525
+2021,Walmart,Electronics,Computers,155559,187780,408,32221
+2021,Walmart,Electronics,Cameras,72383,180060,208,107677
+2021,Target,Grocery,Frozen,111075,129000,717,17925
+2021,Target,Grocery,Dairy,174190,196300,199,22110
+2021,Target,Grocery,Beverages,160592,176100,829,15508
+2021,Target,Grocery,Meat,235842,266700,594,30858
+2021,Target,Pharmacy,Pain Relievers,344943,456000,723,111057
+2021,Target,Pharmacy,COVID 19 Testing Kits,330092,346000,415,15908
+2021,Target,Pharmacy,Vitamins,552253,573000,215,20747
+2021,Target,Pharmacy,"Cold, Cough & Flu",685112,704000,724,18888
+2021,Target,Clothing,Winter Wear,148159,177000,206,28841
+2021,Target,Clothing,Sports Wear,285306,395000,836,109694
+2021,Target,Clothing,Casual wear,96712,116000,601,19288
+2021,Target,Clothing,Nightwear,575160,593890,730,18730
+2021,Target,Beauty,Makeup,144875,162400,422,17525
+2021,Target,Beauty,Hair Care,108079,140300,222,32221
+2021,Target,Beauty,Bath & Body,34313,141990,731,107677
+2021,Target,Beauty,Skincare,143505,161430,213,17925
+2021,Target,Personal Care,Feminine care,109560,131670,843,22110
+2021,Target,Personal Care,Men's Grooming,109462,124970,608,15508
+2021,Target,Personal Care,Oral care,152742,183600,737,30858
+2021,Target,Personal Care,Tanning & Sun care,68513,179570,429,111057
+2021,Target,Electronics,TV,157072,172980,229,15908
+2021,Target,Electronics,Cell Phones,250853,271600,738,20747
+2021,Target,Electronics,Computers,178892,197780,220,18888
+2021,Target,Electronics,Cameras,257219,286060,850,28841
