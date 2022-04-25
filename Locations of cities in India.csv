@@ -1,0 +1,189 @@
+City,Latitude,Longitude,State
+Delhi,28.66,77.23,Delhi
+Mumbai,18.9667,72.8333,Maharashtra
+Kolkata,22.5411,88.3378,West Bengal
+Bangalore,12.9699,77.598,Karnataka
+Chennai,13.0825,80.275,Tamil Nadu
+Hyderabad,17.3667,78.4667,Telangana
+Pune,18.5196,73.8553,Maharashtra
+Ahmadabad,23.03,72.58,Gujarat
+Surat,21.17,72.83,Gujarat
+Lucknow,26.847,80.947,Uttar Pradesh
+Jaipur,26.9167,75.8667,Rajasthan
+Cawnpore,26.4725,80.3311,Uttar Pradesh
+Mirzapur,25.15,82.58,Uttar Pradesh
+Nagpur,21.1539,79.0831,Maharashtra
+Ghaziabad,28.6667,77.4167,Uttar Pradesh
+Indore,22.7206,75.8472,Madhya Pradesh
+Vadodara,22.3,73.2,Gujarat
+Visakhapatnam,17.7333,83.3167,Andhra Pradesh
+Bhopal,23.25,77.4167,Madhya Pradesh
+Chinchvad,18.6278,73.8131,Maharashtra
+Patna,25.61,85.1414,Bihar
+Ludhiana,30.9083,75.8486,Punjab
+Agra,27.18,78.02,Uttar Pradesh
+Kalyan,19.2502,73.1602,Maharashtra
+Madurai,9.9197,78.1194,Tamil Nadu
+Jamshedpur,22.8,86.1833,Jharkhand
+Nashik,20,73.7833,Maharashtra
+Faridabad,28.4333,77.3167,Haryana
+Aurangabad,19.88,75.32,Maharashtra
+Rajkot,22.2969,70.7984,Gujarat
+Meerut,28.99,77.7,Uttar Pradesh
+Jabalpur,23.1667,79.9333,Madhya Pradesh
+Thane,19.18,72.9633,Maharashtra
+Dhanbad,23.7928,86.435,Jharkhand
+Allahabad,25.455,81.84,Uttar Pradesh
+Varanasi,25.3189,83.0128,Uttar Pradesh
+Srinagar,34.0911,74.8061,Jammu and Kashmar
+Amritsar,31.6167,74.85,Punjab
+Alagarh,27.88,78.08,Uttar Pradesh
+Bhiwandi,19.3,73.0667,Maharashtra
+Gwalior,26.215,78.1931,Madhya Pradesh
+Bhilai,21.2167,81.4333,Chhattasgarh
+Haora,22.59,88.31,West Bengal
+Ranchi,23.3556,85.3347,Jharkhand
+Bezwada,16.5167,80.6167,Andhra Pradesh
+Chandagarh,30.7353,76.7911,Chandagarh
+Mysore,12.3086,76.6531,Karnataka
+Raipur,21.2379,81.6337,Chhattasgarh
+Kota,25.18,75.83,Rajasthan
+Bareilly,28.364,79.415,Uttar Pradesh
+Jodhpur,26.2918,73.0168,Rajasthan
+Coimbatore,11,76.9667,Tamil Nadu
+Dispur,26.15,91.77,Assam
+Guwahati,26.1667,91.7667,Assam
+Solapur,17.6833,75.9167,Maharashtra
+Trichinopoly,10.8269,78.6928,Tamil Nadu
+Hubli,15.36,75.125,Karnataka
+Jalandhar,31.3256,75.5792,Punjab
+Bhubaneshwar,20.2644,85.8281,Odisha
+Bhayandar,19.3,72.85,Maharashtra
+Moradabad,28.8418,78.7568,Uttar Pradesh
+Kolhapur,16.7,74.2333,Maharashtra
+Thiruvananthapuram,8.5,76.8997,Kerala
+Saharanpur,29.964,77.546,Uttar Pradesh
+Warangal,17.9756,79.6011,Telangana
+Salem,11.65,78.1667,Tamil Nadu
+Malegaon,20.55,74.55,Maharashtra
+Kochi,9.9667,76.2833,Kerala
+Gorakhpur,26.7611,83.3667,Uttar Pradesh
+Shimoga,13.9304,75.56,Karnataka
+Tiruppur,11.1075,77.3398,Tamil Nadu
+Guntur,16.3,80.45,Andhra Pradesh
+Raurkela,22.2492,84.8828,Odisha
+Mangalore,12.8703,74.8806,Karnataka
+Nanded,19.15,77.3333,Maharashtra
+Cuttack,20.45,85.8667,Odisha
+Chanda,19.95,79.3,Maharashtra
+Dehradun,30.318,78.029,Uttarakhand
+Durgapur,23.55,87.32,West Bengal
+Asansol,23.6833,86.9667,West Bengal
+Bhavnagar,21.765,72.1369,Gujarat
+Amravati,20.9333,77.75,Maharashtra
+Nellore,14.4333,79.9667,Andhra Pradesh
+Ajmer,26.468,74.639,Rajasthan
+Tinnevelly,8.7289,77.7081,Tamil Nadu
+Bakaner,28.0181,73.3169,Rajasthan
+Agartala,23.8333,91.2667,Tripura
+Ujjain,23.1828,75.7772,Madhya Pradesh
+Jhansi,25.4486,78.5696,Uttar Pradesh
+Ulhasnagar,19.2167,73.15,Maharashtra
+Davangere,14.4667,75.9167,Karnataka
+Jammu,32.7333,74.85,Jammu and Kashmar
+Belgaum,15.8667,74.5,Karnataka
+Gulbarga,17.3333,76.8333,Karnataka
+Jamnagar,22.47,70.07,Gujarat
+Dhule,20.9,74.7833,Maharashtra
+Gaya,24.75,85.0167,Bihar
+Jalgaon,21.0167,75.5667,Maharashtra
+Kurnool,15.8222,78.035,Andhra Pradesh
+Udaipur,24.5833,73.6833,Rajasthan
+Bellary,15.15,76.915,Karnataka
+Sangli,16.8667,74.5667,Maharashtra
+Tuticorin,8.7833,78.1333,Tamil Nadu
+Calicut,11.25,75.7667,Kerala
+Akola,20.7333,77,Maharashtra
+Bhagalpur,25.25,87.0167,Bihar
+Sakar,27.6119,75.1397,Rajasthan
+Tumkur,13.33,77.1,Karnataka
+Quilon,8.8853,76.5864,Kerala
+Muzaffarnagar,29.4708,77.7033,Uttar Pradesh
+Bhalwara,25.35,74.6333,Rajasthan
+Nizamabad,18.6704,78.1,Telangana
+Bhatpara,22.8667,88.4167,West Bengal
+Kakinada,16.9333,82.2167,Andhra Pradesh
+Parbhani,19.2704,76.76,Maharashtra
+Panihati,22.69,88.37,West Bengal
+Latur,18.4004,76.57,Maharashtra
+Rohtak,28.9,76.5667,Haryana
+Rajapalaiyam,9.4204,77.58,Tamil Nadu
+Ahmadnagar,19.0833,74.7333,Maharashtra
+Cuddapah,14.4667,78.8167,Andhra Pradesh
+Rajahmundry,16.9833,81.7833,Andhra Pradesh
+Alwar,27.5667,76.6167,Rajasthan
+Muzaffarpur,26.12,85.3833,Bihar
+Bilaspur,22.15,82.0167,Chhattasgarh
+Mathura,27.4833,77.6833,Uttar Pradesh
+Kamarhati,22.67,88.37,West Bengal
+Patiala,30.3204,76.385,Punjab
+Saugor,23.8504,78.75,Madhya Pradesh
+Bijapur,16.8244,75.7154,Karnataka
+Brahmapur,19.32,84.8,Odisha
+Shahjanpur,27.8804,79.905,Uttar Pradesh
+Trichur,10.52,76.21,Kerala
+Barddhaman,23.25,87.85,West Bengal
+Kulti,23.73,86.85,West Bengal
+Sambalpur,21.4704,83.9701,Odisha
+Purnea,25.78,87.47,Bihar
+Hisar,29.1489,75.7367,Haryana
+Farozabad,27.15,78.3949,Uttar Pradesh
+Badar,17.9229,77.5175,Karnataka
+Rampur,28.8154,79.025,Uttar Pradesh
+Shiliguri,26.72,88.42,West Bengal
+Bali,22.65,88.34,West Bengal
+Panapat,29.4004,76.97,Haryana
+Karamnagar,18.4333,79.15,Telangana
+Bhuj,23.2504,69.81,Gujarat
+Ichalkaranji,16.7,74.47,Maharashtra
+Tirupati,13.65,79.42,Andhra Pradesh
+Hospet,15.2667,76.4,Karnataka
+Khawzawl,23.7104,92.72,Mizoram
+Sannai,24.16,80.83,Madhya Pradesh
+Barasat,22.2333,88.45,West Bengal
+Ratlam,23.3167,75.0667,Madhya Pradesh
+Handwara,34.4,74.28,Jammu and Kashmar
+Drug,21.19,81.28,Chhattasgarh
+Imphal,24.82,93.95,Manipur
+Anantapur,14.6833,77.6,Andhra Pradesh
+Etawah,26.7855,79.015,Uttar Pradesh
+Raichur,16.2104,77.355,Karnataka
+Ongole,15.5,80.05,Andhra Pradesh
+Bharatpur,27.2172,77.49,Rajasthan
+Begusarai,25.42,86.13,Bihar
+Sonapat,28.9958,77.0114,Haryana
+Ramgundam,18.8,79.45,Telangana
+Hapur,28.7437,77.7628,Uttar Pradesh
+Uluberiya,22.47,88.11,West Bengal
+Porbandar,21.6425,69.6047,Gujarat
+Pali,25.7725,73.3233,Rajasthan
+Vizianagaram,18.1167,83.4167,Andhra Pradesh
+Puducherry,11.93,79.83,Puducherry
+Karnal,29.6804,76.97,Haryana
+Nagercoil,8.17,77.43,Tamil Nadu
+Tanjore,10.8,79.15,Tamil Nadu
+Sambhal,28.58,78.55,Uttar Pradesh
+Shimla,31.1033,77.1722,Himachal Pradesh
+Ghandanagar,23.22,72.68,Gujarat
+Shillong,25.5744,91.8789,Meghalaya
+New Delhi,28.7,77.2,Delhi
+Port Blair,11.6667,92.75,Andaman and Nicobar Islands
+Gangtok,27.33,88.62,Sikkim
+Kohama,25.6667,94.1194,Nagaland
+Itanagar,27.1,93.62,Arunachal Pradesh
+Panaji,15.48,73.83,Goa
+Daman,20.417,72.85,Gujarat
+Kavaratti,10.5626,72.6369,Lakshadweep
+Panchkula,30.6915,76.8537,Haryana
+Kagaznagar,19.3316,79.4661,Telangana
+Bengaluru,12.9716,77.5946,Karnataka
